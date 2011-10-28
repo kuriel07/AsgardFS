@@ -1,0 +1,46 @@
+AsgardFS : Asgard File System Library
+Version : 0.1 (beta version)
+Copyright (C) 2011 Agus Purwanto
+http://www.my.opera.com/kuriel
+
+This document copyright (c) 2011 Agus Purwanto.  License is granted to 
+reproduce, copy, post, or distribute in any manner, provided this document 
+is kept intact and no modifications, deletions, or additions are made.
+
+WHAT IS IT?
+
+Asgard is a small independent file system library designed for smart 
+card operating system. it support standard ISO7816-4/GSM 11.11 commands 
+such as select, read binary, read record, write binary, write record.
+it provide high level access to read/write from any memory using tree
+alike file structure.
+property of the authors and is covered by this license agreement.
+
+WHAT YOU CAN (AND CANNOT) DO WITH THE AsgardFS LIBRARY
+
+The license at the end of this note gives legal terms and conditions.
+Here's the layman's interpretation, for information only and with no
+legal weight:
+
+     1.   You can use the AsgardFS library in personal, non-commercial
+          applications. You can't use the AsgardFS library in any 
+          commercial (moneymaking) manner of any type, nor can
+          you use it to provide services of any kind to any other
+          party.
+
+     2.   You can modify AsgardFS library as required to port it to other
+          operating systems and compilers.
+
+     3.   You can give others AsgardFS library and programs that
+          interface to AsgardFS library, under the same terms and
+          conditions as your AsgardFS library license.
+
+     4.   The software is provided on a take-it-or-leave-it, as-is basis
+          and the authors assume no responsibility if you choose to
+          use it.
+
+
+OTHER QUESTIONS
+
+If you have questions regarding AsgardFS library send email to <agushimuso@gmail.com>
+this file downloaded from http://www.my.opera.com/kuriel
